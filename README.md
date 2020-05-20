@@ -12,7 +12,7 @@ Part I of this project was a SQL database using Azure SQL (for cloud storage.) P
 
 The scope of this web app was to have the ability to view reports, in reverse chronological order, from a database of our choosing with some method of securing the data.
 
-![Animated GIF of Web App](demo/capstone_webapp.gif)
+![Animated GIF of Web App](Demo/capstone_webapp.gif)
 
 ### Of Special Note
 
