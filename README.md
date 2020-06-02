@@ -16,11 +16,11 @@ The scope of this web app was to have the ability to view reports, in reverse ch
 
 ### Of Special Note
 
-I used ASP.net with authentication, and Entity Framework for ORM. The report data is from the same Azure SQL database as the Desktop Reports Capstone repository. However, the authentication and authorization data is on a separate database.  
+I used ASP.net with authentication, and Entity Framework for ORM. The report data is from the same Azure SQL database as the [**Desktop Reports Capstone**](https://github.com/drobinson-sudo/DesktopReportsCapstone) repository. However, the authentication and authorization data is on a separate database.  
 
 EntityFramework calls parameterized stored procedures on the database to retrieve the report data. This webapp is "Read Only", meaning that as scoped, the app only needed to present data, not create or edit data. 
 
-The admin feature of this web app allows for editing user information, creating roles, and adding roles to users. However, as this point there is really no need for additional roles as the only pages to access are the About page, the Reports page, and the Manage Accounts page (well, also there is a Privacy Policy page, but most people naturally stay away from there...)
+The admin feature of this web app allows for editing user information, creating roles, and adding roles to users. However, at this point there is really no need for additional roles as the only pages to access are the About page, the Reports page, and the Manage Accounts page (well, also there is a Privacy Policy page, but most people naturally stay away from there...)
 
 ### Conclusion
 
