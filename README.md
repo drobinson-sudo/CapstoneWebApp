@@ -4,7 +4,7 @@
 
 ### Overview
 
-This is **Part III** of a three-part group project for a Capstone course. My team mates were to research privacy and security needs for a fictitious company as relates to the new **Califronia Privacy Laws (CCPA)**. This ASP.Net app (and the related [**Winforms desktop app**](https://github.com/drobinson-sudo/DesktopReportsCapstone) was created for each team member to access reports on their own computers via the Internet.
+This is **Part III** of a three-part group project for a Capstone course. My team mates were to research privacy and security needs for a fictitious company as relates to the new **Califronia Privacy Laws (CCPA)**. This ASP.Net app (and the related [**Winforms desktop app**](https://github.com/drobinson-sudo/DesktopReportsCapstone)) was created for each team member to access reports on their own computers via the Internet.
 
 Part I of this project was a SQL database using Azure SQL (for cloud storage.) Part II of this project was a compiled [**desktop app**](https://github.com/drobinson-sudo/DesktopReportsCapstone) to connect to the same database for creating, editing, and viewing of reports.
 
